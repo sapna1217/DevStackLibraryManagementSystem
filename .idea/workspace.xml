@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b896c1b4-c07f-44b2-a9a7-b2817cfc1056" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemlist.lms" beforeDir="false" afterPath="$PROJECT_DIR$/itemlist.lms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/librarymanagementsystem/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/librarymanagementsystem/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/librarymanagementsystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/librarymanagementsystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/librarymanagementsystem/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/librarymanagementsystem/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="b896c1b4-c07f-44b2-a9a7-b2817cfc1056" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
